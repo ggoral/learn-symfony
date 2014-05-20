@@ -1,7 +1,7 @@
 app/cache/prod/
 app/logs/prod.log
-app/cache
-app/logs
+app/cache/
+app/logs/
 bin
 composer.json
 composer.lock
@@ -11,4 +11,3 @@ UPGRADE-2.3.md
 UPGRADE-2.4.md
 UPGRADE.md
 vendor
-web
