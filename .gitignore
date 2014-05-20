@@ -1,3 +1,4 @@
 app/cache/prod/
-
 app/logs/prod.log
+app/cache
+app/logs
